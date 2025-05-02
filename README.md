@@ -35,5 +35,5 @@ During my internship, I:
 ## 🔗 Connect with Me
 
 - **GitHub**: [Puskar-Sarkar](https://github.com/Puskar-Sarkar)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/puskarsarkar/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/puskarsarkar/)
 - **Email**: itspuskarsarkar@gmail.com
